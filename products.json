@@ -1,0 +1,274 @@
+{
+  "games": [
+    {
+      "id": "ml",
+      "name": "Mobile Legends",
+      "subtitle": "Diamonds",
+      "packages": [
+        {
+          "id": "ml86",
+          "name": "86 Diamonds",
+          "price": 20000
+        },
+        {
+          "id": "ml172",
+          "name": "172 Diamonds",
+          "price": 39000
+        },
+        {
+          "id": "ml257",
+          "name": "257 Diamonds",
+          "price": 58000
+        },
+        {
+          "id": "ml706",
+          "name": "706 Diamonds",
+          "price": 155000
+        }
+      ],
+      "logoDomain": "mobilelegends.com"
+    },
+    {
+      "id": "ff",
+      "name": "Free Fire",
+      "subtitle": "Diamonds",
+      "packages": [
+        {
+          "id": "ff70",
+          "name": "70 Diamonds",
+          "price": 10000
+        },
+        {
+          "id": "ff140",
+          "name": "140 Diamonds",
+          "price": 20000
+        },
+        {
+          "id": "ff355",
+          "name": "355 Diamonds",
+          "price": 49000
+        },
+        {
+          "id": "ff720",
+          "name": "720 Diamonds",
+          "price": 97000
+        }
+      ],
+      "logoDomain": "ff.garena.com"
+    },
+    {
+      "id": "pubg",
+      "name": "PUBG Mobile",
+      "subtitle": "UC",
+      "packages": [
+        {
+          "id": "pub60",
+          "name": "60 UC",
+          "price": 16000
+        },
+        {
+          "id": "pub325",
+          "name": "325 UC",
+          "price": 79000
+        },
+        {
+          "id": "pub660",
+          "name": "660 UC",
+          "price": 155000
+        }
+      ],
+      "logoDomain": "pubgmobile.com"
+    },
+    {
+      "id": "genshin",
+      "name": "Genshin Impact",
+      "subtitle": "Genesis Crystals",
+      "packages": [
+        {
+          "id": "gen60",
+          "name": "60 Crystals",
+          "price": 16000
+        },
+        {
+          "id": "gen300",
+          "name": "300 + 30",
+          "price": 79000
+        },
+        {
+          "id": "gen980",
+          "name": "980 + 110",
+          "price": 249000
+        }
+      ],
+      "logoDomain": "genshin.hoyoverse.com"
+    },
+    {
+      "id": "hok",
+      "name": "Honor of Kings",
+      "subtitle": "Tokens",
+      "logoDomain": "honorofkings.com",
+      "packages": [
+        {
+          "id": "hok80",
+          "name": "80 Tokens",
+          "price": 15000
+        },
+        {
+          "id": "hok240",
+          "name": "240 Tokens",
+          "price": 45000
+        },
+        {
+          "id": "hok400",
+          "name": "400 Tokens",
+          "price": 75000
+        },
+        {
+          "id": "hok800",
+          "name": "800 Tokens",
+          "price": 149000
+        }
+      ]
+    },
+    {
+      "id": "codm",
+      "name": "Call of Duty Mobile",
+      "subtitle": "CP",
+      "logoDomain": "callofduty.com",
+      "packages": [
+        {
+          "id": "codm80",
+          "name": "80 CP",
+          "price": 15000
+        },
+        {
+          "id": "codm420",
+          "name": "420 CP",
+          "price": 75000
+        },
+        {
+          "id": "codm880",
+          "name": "880 CP",
+          "price": 149000
+        },
+        {
+          "id": "codm2400",
+          "name": "2400 CP",
+          "price": 379000
+        }
+      ]
+    },
+    {
+      "id": "roblox",
+      "name": "Roblox",
+      "subtitle": "Robux",
+      "logoDomain": "roblox.com",
+      "packages": [
+        {
+          "id": "rbx80",
+          "name": "80 Robux",
+          "price": 16000
+        },
+        {
+          "id": "rbx400",
+          "name": "400 Robux",
+          "price": 79000
+        },
+        {
+          "id": "rbx800",
+          "name": "800 Robux",
+          "price": 159000
+        },
+        {
+          "id": "rbx1700",
+          "name": "1700 Robux",
+          "price": 319000
+        }
+      ]
+    },
+    {
+      "id": "valorant",
+      "name": "VALORANT",
+      "subtitle": "Points",
+      "logoDomain": "playvalorant.com",
+      "packages": [
+        {
+          "id": "vp125",
+          "name": "125 VP",
+          "price": 15000
+        },
+        {
+          "id": "vp420",
+          "name": "420 VP",
+          "price": 49000
+        },
+        {
+          "id": "vp700",
+          "name": "700 VP",
+          "price": 79000
+        },
+        {
+          "id": "vp1375",
+          "name": "1375 VP",
+          "price": 149000
+        }
+      ]
+    },
+    {
+      "id": "steam",
+      "name": "Steam Wallet",
+      "subtitle": "Wallet Code",
+      "logoDomain": "steampowered.com",
+      "packages": [
+        {
+          "id": "steam12",
+          "name": "Wallet Rp12.000",
+          "price": 14000
+        },
+        {
+          "id": "steam45",
+          "name": "Wallet Rp45.000",
+          "price": 49000
+        },
+        {
+          "id": "steam60",
+          "name": "Wallet Rp60.000",
+          "price": 65000
+        },
+        {
+          "id": "steam120",
+          "name": "Wallet Rp120.000",
+          "price": 129000
+        }
+      ]
+    },
+    {
+      "id": "googleplay",
+      "name": "Google Play",
+      "subtitle": "Gift Balance",
+      "logoDomain": "play.google.com",
+      "packages": [
+        {
+          "id": "gp10",
+          "name": "Gift Rp10.000",
+          "price": 12000
+        },
+        {
+          "id": "gp20",
+          "name": "Gift Rp20.000",
+          "price": 23000
+        },
+        {
+          "id": "gp50",
+          "name": "Gift Rp50.000",
+          "price": 54000
+        },
+        {
+          "id": "gp100",
+          "name": "Gift Rp100.000",
+          "price": 106000
+        }
+      ]
+    }
+  ]
+}
